@@ -41,19 +41,19 @@
 ### ⭐ Homepage Experience
 
 <p align="center">
-  <img src="images/preview-1.png" width="900">
+  <img src="./images /Preview-1.png" width="900">
 </p>
 
 ### 🍿 Trending Section
 
 <p align="center">
-  <img src="images/preview-2.png" width="900">
+  <img src="./images /Preview-2.png" width="900">
 </p>
 
 ### ❓ FAQ Section
 
 <p align="center">
-  <img src="images/preview-3.png" width="900">
+  <img src="./images /Preview-3.png" width="900">
 </p>
 
 ---
@@ -80,8 +80,6 @@ This project showcases:
 ✅ Layout mastery with Flexbox & Grid  
 ✅ UI/UX understanding  
 ✅ Clean developer workflow  
-
-👉 **This is NOT just a clone — it's a frontend engineering exercise.**
 
 ---
 
@@ -138,8 +136,6 @@ Because it proves:
 ⭐ You write organized code  
 ⭐ You care about presentation  
 ⭐ You go beyond tutorials  
-
-**Signal > Certificates**
 
 ---
 
