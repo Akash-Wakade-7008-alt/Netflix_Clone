@@ -1,13 +1,15 @@
 body {
   background-image: url("https://cdn.mos.cms.futurecdn.net/rDJegQJaCyGaYysj2g5XWY.jpg");
-  background-color: rgb(22, 22, 24, 0.72);
-  background-blend-mode: darken;
+background-color: rgba(9, 9, 10, 0.78);
+background-blend-mode: darken;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 header {
   width: 99vw;
   display: flex;
+  position: sticky;
+  top: 0;
 }
 
 #langauge1 {
@@ -45,10 +47,12 @@ header {
   height: 39vh;
   width: 15vw;
   border-radius: 7px;
+  transform: scale(1) translateY(0px);
+  transition: transform 1s ease;
 }
 
 .img:hover{
-  transform: scale(1.15);
+  transform: scale(1.1) translateY(-10px);
 }
 
 #reason-to-join {
