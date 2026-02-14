@@ -11,7 +11,7 @@
 # 🎬 Netflix Clone
 
 <p align="center">
-  <img src="images/logo.png" width="200"/>
+  <img src="./images /logo.png" width="200"/>
 </p>
 
 <p align="center">
@@ -41,19 +41,19 @@
 ### ⭐ Homepage Experience
 
 <p align="center">
-  <img src="./images /Preview-1.png" width="900">
+  <img src="./images /Preview-1.png" width="100%">
 </p>
 
 ### 🍿 Trending Section
 
 <p align="center">
-  <img src="./images /Preview-2.png" width="900">
+  <img src="./images /Preview-2.png" width="100%">
 </p>
 
 ### ❓ FAQ Section
 
 <p align="center">
-  <img src="./images /Preview-3.png" width="900">
+  <img src="./images /Preview-3.png" width="100%">
 </p>
 
 ---
@@ -159,9 +159,3 @@ If this project impressed you:
 🍴 Fork it  
 📢 Share it  
 🧑‍💻 Build upon it  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=120&section=footer"/>
-</p>
