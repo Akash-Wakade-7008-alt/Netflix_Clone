@@ -38,6 +38,9 @@
 
 ## 🚀 Live Preview
 
+⭐ **Experience the animation live here:**  
+👉 https://netflix-clone-4jfg.vercel.app/
+
 ### ⭐ Homepage Experience
 
 <p align="center">
@@ -67,7 +70,7 @@
 🔥 Smooth hover effects  
 🔥 Structured layout  
 🔥 Pixel-aligned spacing  
-🔥 Professional folder organization  
+🔥 Professional folder organization
 
 ---
 
@@ -79,7 +82,7 @@ This project showcases:
 ✅ Advanced CSS styling  
 ✅ Layout mastery with Flexbox & Grid  
 ✅ UI/UX understanding  
-✅ Clean developer workflow  
+✅ Clean developer workflow
 
 ---
 
@@ -106,13 +109,14 @@ NETFLIX_CLONE
 └── README.md
 ---
 ```
+
 ## 🎯 What I Learned From This Project
 
 ✔ How professional landing pages are structured  
 ✔ Writing scalable CSS  
 ✔ Improving visual hierarchy  
 ✔ Designing like production websites  
-✔ Thinking like a frontend engineer  
+✔ Thinking like a frontend engineer
 
 ---
 
@@ -123,7 +127,7 @@ NETFLIX_CLONE
 🚀 Authentication pages  
 🚀 Backend integration  
 🚀 API-powered movie data  
-🚀 Fully responsive ultra-mobile design  
+🚀 Fully responsive ultra-mobile design
 
 ---
 
@@ -135,7 +139,7 @@ Because it proves:
 ⭐ You understand design systems  
 ⭐ You write organized code  
 ⭐ You care about presentation  
-⭐ You go beyond tutorials  
+⭐ You go beyond tutorials
 
 ---
 
@@ -145,7 +149,7 @@ Because it proves:
 
 🚀 B.Tech CSE (AI) Student  
 💻 Future Full Stack Developer  
-🌟 Open Source Enthusiast  
+🌟 Open Source Enthusiast
 
 > “Great developers aren’t born — they build consistently.”
 
@@ -158,4 +162,4 @@ If this project impressed you:
 ⭐ Star the repository  
 🍴 Fork it  
 📢 Share it  
-🧑‍💻 Build upon it  
+🧑‍💻 Build upon it
