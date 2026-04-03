@@ -59,7 +59,6 @@
   <img src="./images /Preview-3.png" width="100%">
 </p>
 
-
 ---
 
 ## ✨ Features That Make It Shine
@@ -110,6 +109,29 @@ NETFLIX_CLONE
 └── README.md
 ---
 ```
+
+## ⚙️ Local Setup
+
+### Option 1: Clone the Repository
+
+```bash
+git clone https://github.com/Akash-Wakade-7008-alt/Netflix_Clone.git
+
+cd NETFLIX_CLONE
+
+open index.html
+```
+
+### 📦 Option 2: Download ZIP
+
+Download the project directly:  
+👉 https://github.com/Akash-Wakade-7008-alt/Netflix_Clone/releases/download/Netflix-Clone-v1.0/Netflix_Clone.zip
+
+1. Download the ZIP file  
+2. Extract it  
+3. Open `index.html` in your browser  
+
+---
 
 ## 🎯 What I Learned From This Project
 
