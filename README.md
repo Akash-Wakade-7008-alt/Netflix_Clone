@@ -41,6 +41,9 @@
 ⭐ **Experience the animation live here:**  
 👉 https://netflix-clone-4jfg.vercel.app/
 
+⭐ **Read the Linkden Post:**  
+👉 https://www.linkedin.com/feed/update/urn:li:activity:7435966944056348673/
+
 ### ⭐ Homepage Experience
 
 <p align="center">
@@ -186,3 +189,6 @@ If this project impressed you:
 🍴 Fork it  
 📢 Share it  
 🧑‍💻 Build upon it
+
+---
+
